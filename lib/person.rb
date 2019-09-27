@@ -10,5 +10,3 @@ class Person
   end
 end  
 
-new_person = Person.new("Beyonce")
-new_person.person
