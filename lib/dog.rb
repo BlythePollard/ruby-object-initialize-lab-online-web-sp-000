@@ -15,7 +15,6 @@ class Dog
     @name = name
     @breed = breed
   end
- 
+
 end
 
-fido = dog.new("Mutt")
